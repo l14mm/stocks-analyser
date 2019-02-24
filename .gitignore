@@ -1,2 +1,6 @@
 env/
 .vscode
+Exports/
+.DS_Store
+data/
+*.ipynb

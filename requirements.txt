@@ -2,3 +2,7 @@ numpy
 sklearn
 selenium
 iexfinance
+
+tensorflow
+pandas
+matplotlib
